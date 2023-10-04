@@ -1,3 +1,5 @@
+const NODE_TLS_REJECT_UNAUTHORIZED = 0;
+
 import "./globals.css";
 
 export const metadata = {
